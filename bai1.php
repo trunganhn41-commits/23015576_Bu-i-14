@@ -14,7 +14,7 @@
     <h1>WEBSITE DU LỊCH SỐ</h1>
 
     <?php
-        echo "<p>Chào mừng bạn đến với Website Du Lịch Số, nền tảng hàng đầu cung cấp các tour du lịch trải nghiệm đa dạng và chất lượng. Chúng tôi cam kết mang đến cho bạn những hành trình khám phá tuyệt vời nhất trên khắp mọi miền đất nước.</p>";
+        echo "<p>Chào mừng bạn đến với Website Du Lịch Số 123345, nền tảng hàng đầu cung cấp các tour du lịch trải nghiệm đa dạng và chất lượng. Chúng tôi cam kết mang đến cho bạn những hành trình khám phá tuyệt vời nhất trên khắp mọi miền đất nước.</p>";
         
         echo "<p class='contact-info'>Hotline: 0123 456 789</p>";
         
